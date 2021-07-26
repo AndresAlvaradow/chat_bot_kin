@@ -51,5 +51,8 @@ para el PLN se usa las siguientes funciones en las cuales obtenemos el texto y l
 
 
 
+enlace de github: https://github.com/AndresAlvaradow/chat_bot_kin
+
+
 
 
